@@ -21,10 +21,10 @@
     <ClInclude Include="Deck.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="TicTacToe.h">
+    <ClInclude Include="Statistics.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Statistics.h">
+    <ClInclude Include="TicTactoe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,10 +35,10 @@
     <ClCompile Include="Deck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="TicTacToe.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Main.cpp">
+    <ClCompile Include="TicTactoe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

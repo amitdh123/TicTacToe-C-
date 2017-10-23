@@ -4,8 +4,7 @@
 #include <iostream>
 
 int main() {
-	TicTacToe gameobject;
-	Deck deckboard;
+	TicTactoe gameobject;
 	gameobject.get_user_input();
 	system("pause");
 }
